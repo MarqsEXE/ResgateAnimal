@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2cfbdd6f-5fab-4f2b-ab8f-fbb790910337" alt="Logo ResgateAnimal" width="250" />
+</p>
+
 # ResgateAnimal
 
 ## Sobre o projeto
